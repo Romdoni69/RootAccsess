@@ -8,5 +8,4 @@ $ cd RootAccsess
 $ python2 root.py
 ```
 
-Wait installation finish
-type ```$ root``` to enter root mode
+Wait installation finish, type ```$ root``` to enter root mode
