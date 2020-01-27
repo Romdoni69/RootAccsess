@@ -2,7 +2,7 @@
 Get root access, without rooting the mobile
 
 $ pkg install python2 git -y
-$ git clone https://github.com/Mr-N0B1T4/RootAccsess
+$ git clone https://github.com/nobitasan/RootAccsess
 $ cd RootAccsess
 $ python2 root.py
 
